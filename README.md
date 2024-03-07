@@ -15,8 +15,8 @@ este pierde el 100% de HP y viceversa (es decir, que si el oponente gana 4 veces
 
 ### Opciones posibles en el piedra papel o tijera: 
 
-**Ganar** – No se pierde vida  
-**Empatar**  – Se pierde 10% de vida 
+**Ganar** – No se pierde vida.  
+**Empatar**  – Se pierde 10% de vida. 
 **Perder** – Se pierde 25 % de vida. 
 
 ## HISTORIA
