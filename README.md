@@ -1,6 +1,6 @@
-#**JUEGO DE ROL: GOD SAVE THE QUEEN**
+# **JUEGO DE ROL: GOD SAVE THE QUEEN**
 
-##METODOLOGIA
+## METODOLOGIA
 
 El juego consta de tres niveles en el que en cada nivel se tendrá que enfrentar a un oponente que tiene una cantidad de vida:
 En el 1er nivel el oponente tendrá 100% de HP, en el 2do nivel 125% de HP y en el último nivel el enemigo tendrá 150% de HP.
@@ -19,7 +19,7 @@ este pierde el 100% de HP y viceversa (es decir, que si el oponente gana 4 veces
 **Empatar**  – Se pierde 10% de vida 
 **Perder** – Se pierde 25 % de vida. 
 
-##HISTORIA
+## HISTORIA
 
 La reina ha sido raptada por un grupo de malechores en una de sus salidas matutinas, siendo llevada a una torre alejada del reino. 
 Nuestro heroe (el jugador) tendrá la importante misión de rescatarla, pero en el camino deberá enfrentarse a una serie de oponentes 
